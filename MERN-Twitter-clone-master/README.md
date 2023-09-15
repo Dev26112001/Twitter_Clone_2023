@@ -1,11 +1,16 @@
-# MERN-Twitter-clone
+#Twitter-clone
 
-Twitter clone made using MERN Stack.
+Stack Used: MERN
 
-![twitter-pic](twitter-pic.png)
+<img width="960" alt="Screenshot 2023-09-15 160801" src="https://github.com/Dev26112001/Twitter_Clone_2023/assets/68328634/680794ae-b205-4fcc-9085-ab235c0ce280">
+
+
+<img width="960" alt="Screenshot 2023-09-15 160902" src="https://github.com/Dev26112001/Twitter_Clone_2023/assets/68328634/1d877dff-2395-406d-8576-292503f8cb53">
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uR53kLMYt4c?si=pbeu4c8ZlSxwJ5q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Features
-
 - Sign up/ Sign in via JWT Token
 - Customize account
 - Tweet
@@ -16,7 +21,6 @@ Twitter clone made using MERN Stack.
 - Edit tweets and comments
 - Delete tweets and comments
 
-## Contribute
 
 ### Prerequisites
 
@@ -62,6 +66,4 @@ $ cd client
 $ npm start
 ```
 
-## License
-
-This project is made available under the MIT License.
+Developer : Devjyoti Mohanty
