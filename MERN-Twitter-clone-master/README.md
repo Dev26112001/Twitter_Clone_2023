@@ -7,8 +7,7 @@ Stack Used: MERN
 
 <img width="960" alt="Screenshot 2023-09-15 160902" src="https://github.com/Dev26112001/Twitter_Clone_2023/assets/68328634/1d877dff-2395-406d-8576-292503f8cb53">
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uR53kLMYt4c?si=pbeu4c8ZlSxwJ5q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Video Demonstration : https://youtu.be/uR53kLMYt4c?si=jCSz5W34y-M28Tb8
 
 ## Features
 - Sign up/ Sign in via JWT Token
